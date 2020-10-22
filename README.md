@@ -1,6 +1,6 @@
 # 09_Klausurvorbereitung_1
 
 
-- Instantziierung von Klassen
+- Instanziierung von Klassen
 - Referenzvariable / Referenztyp
 - Instanzvariable this
